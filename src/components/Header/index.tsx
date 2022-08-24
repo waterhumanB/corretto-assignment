@@ -14,14 +14,14 @@ const Header = () => {
     <HeadContainer>
       <NameBox>FrontEnd-Dev-BaeSuIn</NameBox>
       <NavBtnContainer>
-        <NavLink to="assignment1">
-          <button className={toggle ? 'active' : ''} onClick={toggleHandler}>
+        <NavLink to="/">
+          <button className={!toggle ? 'active' : ''} onClick={toggleHandler}>
             Assignment1
           </button>
         </NavLink>
 
         <NavLink to="assignment2">
-          <button className={!toggle ? 'active' : ''} onClick={toggleHandler}>
+          <button className={toggle ? 'active' : ''} onClick={toggleHandler}>
             Assignment2
           </button>
         </NavLink>
