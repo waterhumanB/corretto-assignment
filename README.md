@@ -33,7 +33,7 @@ React, TypeScript, Styled-components, react-intersection-observer
 - [x] 웹과 모바일에 대한 반응형 웹 구현하기 PC에서 Mobile로 변하는 위치는 가로폭 720px
 - [x] pc 하면에서 노란 박스와 버튼이 오른쪽 있고, Mobile 뷰에서는 작아진 크기와 버튼과 박스가 하단으로 내려온다.
 
-## 두번쨰 과제
+## 두번재 과제
 
 - [x] 모바일 화면에서 스크롤이 어느 값이나 위치에 내려가게 되면 Nav의 내용이 바뀐다.
 - [x] Nav는 스크롤시 화면에 고정된다.
