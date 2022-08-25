@@ -70,8 +70,8 @@ export const SlideBtn = styled.div`
   margin: auto -20px 20px;
 
   @media screen and (max-width: 720px) {
-    path:nth-child(1) {
-      fill: #fff;
+    path {
+      fill: #eee;
     }
   }
 `
