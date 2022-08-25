@@ -7,6 +7,8 @@ export const HeadContainer = styled.header`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: fixed;
+  z-index: 2;
 `
 export const NameBox = styled.div`
   margin-left: 20px;

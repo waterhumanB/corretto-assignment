@@ -8,7 +8,6 @@ export const BackgroundBox = styled.div`
   width: 100%;
   height: 250px;
   background: #9573ff;
-  margin-top: 200px;
   position: relative;
   @media screen and (min-width: 720px) {
     height: 320px;

@@ -6,6 +6,7 @@ import * as S from './style'
 const Assignment1 = () => {
   return (
     <S.MainCotainer>
+      <div style={{ width: '100%', height: '200px' }} />
       <S.BackgroundBox>
         <S.ContextContainer>
           <S.Slogan>
